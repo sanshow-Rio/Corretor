@@ -1,0 +1,6 @@
+{
+  "name": "Aluguel Loja Vila Isabel",
+  "description": "Landing page interativa para aluguel de loja de frente de 15 m² com excelente visibilidade na Boulevard 28 de Setembro, Vila Isabel, Rio de Janeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
